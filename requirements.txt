@@ -1,0 +1,7 @@
+Flask
+Werkzeug
+SQLAlchemy
+flask_sqlalchemy
+db
+requests
+pymysql
